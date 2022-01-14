@@ -4,19 +4,19 @@
 
 Dataset Information:
 
-Request ID: Ride request ID
+1. Request ID: Ride request ID
 
-Date: Date of request
+2. Date: Date of request
 
-Request time: Time at which the ride was requested
+3. Request time: Time at which the ride was requested
 
-Dropoff time: Time at which the ride was completed
+4. Dropoff time: Time at which the ride was completed
 
-Pickup Point: Customer’s pickup spot
+5. Pickup Point: Customer’s pickup spot
 
-Driver ID: Driver’s unique identification number
+6. Driver ID: Driver’s unique identification number
 
-Status: Ride status
+7. Status: Ride status
 
 ### Probleme Statement:
 
