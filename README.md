@@ -1,4 +1,4 @@
-# Tableau_Project_Uber_Request
+# Tableau_Project_on_Uber_Request
 
 This repository contains files for my Data Visualization projects and reports on Uber_Requests_Data created using Tableau.
 
